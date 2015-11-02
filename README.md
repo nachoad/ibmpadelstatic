@@ -5,4 +5,4 @@ Página web para apuntar un histórico de partidos ganados, y un ranking de los 
 Nacho Alonso.
 
 ## URL
-* Página web: [IBM Padel 7 Series](https://nachoad.com/ibmpadel)
+* Página web: [IBM Padel 7 Series](http://nachoad.com/ibmpadel)
